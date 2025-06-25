@@ -4,4 +4,4 @@ Os exercícios têm como objetivo reforçar a lógica de controle de fluxo avan�
 
 Esta lista aborda estruturas básicas e avançadas como extrutura de controle, recursividade e arrays em objetos.
 
-Pré-requisitos Node.js instalado no seu computador Instalar prompt-sync
+Pré-requisitos Instalar prompt-sync
